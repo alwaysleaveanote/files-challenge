@@ -1,0 +1,76 @@
+body {
+	padding-left: 200px;
+	padding-right: 200px;
+	background-image: url(img/Background.jpg);
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: "Courier New";
+	font-size: 20pt;
+	font-weight: 300;
+	color: #780000;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Courier New";
+	font-size: 18pt;
+	font-weight: 300;
+	color: #780000;
+	text-align: center;
+}
+
+p {
+	font-family: "Courier New";
+	font-size: 12pt;
+	letter-spacing: 2px;
+	font-weight: 200;
+	text-align: center;
+}
+
+#HermioneIsSmart {
+	display: table;
+}
+
+#Hermione-Smart {
+	float: left;
+	padding: 20px;
+	padding-left: 50px;
+}
+
+#HermioneIsSmart p {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#HermioneIsABadass {
+	display: table;
+}
+
+#Hermione-Badass {
+	position: relative;
+	float: right;
+	padding: 20px;
+	padding-right: 50px;
+}
+
+#HermioneIsABadass p {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#EmmaWatsonFuckYeah {
+	display: table;
+}
+
+#EmmaWatson {
+	float: left;
+	padding: 20px;
+	padding-left: 50px;
+}
+
+#EmmaWatsonFuckYeah p {
+	display: table-cell;
+	vertical-align: middle;
+}
